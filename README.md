@@ -67,15 +67,3 @@ Analysis approach
 Key findings
 Business recommendations
 
- Dashboard Highlights :
-Revenue and profit overview
-Monthly sales and profit trends
-Product and branch performance comparison
-Customer segmentation insights
-Interactive filtering for deeper analysis
-
-Key Results & Insights :
-Identified top-performing product lines and branches
-Observed seasonal trends in sales performance
-Analyzed customer behavior by gender and payment method
-Provided data-driven recommendations for business growth
