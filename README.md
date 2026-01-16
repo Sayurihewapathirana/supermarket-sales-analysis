@@ -1,4 +1,4 @@
-Data Analytics Project – Sales Analysis
+Data Analytics Project – Supermarket Sales Analysis
  Overview :
 
 This project focuses on analyzing a real-world sales dataset to extract meaningful business insights using Python, SQL, and Power BI.
@@ -9,6 +9,7 @@ Dataset :
 Source: Public sales dataset (Supermarket Sales)
 Rows: 1,000
 Columns: 17
+
 Key Features:
 Invoice ID
 Branch, City
@@ -19,6 +20,7 @@ Tax, Sales, COGS, Gross Income
 Date, Time
 Payment Method
 Customer Rating
+
 Tools & Technologies :
 Python: Pandas, NumPy, Matplotlib
 Jupyter Notebook: Data exploration and preprocessing
@@ -65,5 +67,20 @@ Slicers for dynamic filtering
 Created a detailed project report documenting:
 Analysis approach
 Key findings
+
+📊 Dashboard Highlights
+
+Revenue and profit overview
+Monthly sales and profit trends
+Product and branch performance comparison
+Customer segmentation insights
+Interactive filtering for deeper analysis
+
+📈 Key Results & Insights
+
+Identified top-performing product lines and branches
+Observed seasonal trends in sales performance
+Analyzed customer behavior by gender and payment method
+Provided data-driven recommendations for business growth
 Business recommendations
 
